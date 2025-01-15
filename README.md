@@ -9,5 +9,4 @@
     🤔 I’m looking for help with advanced machine learning techniques and project collaborations.
     💬 Ask me about anything related to university life as an international student.
     😄 Pronouns: She/Her.
-    ⚡ Fun fact: I’m navigating life in a new country and balancing my love for technology with exploring diverse
-       cultures!
+    ⚡ Fun fact: I’m navigating life in a new country and balancing my love for technology with exploring diverse cultures!
