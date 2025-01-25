@@ -4,7 +4,7 @@
 
     🔭 I’m currently working on my skills in Artificial Intelligence and Data Science as a first-year Computer-Science
        student at the University of Genoa.
-    🌱 I’m currently learning Machine Learning and improving my Italian (A2 level).
+    🌱 I’m improving my Italian (B1 level).
     👯 I’m looking to collaborate on AI and data science projects, especially those involving real-world applications.
     🤔 I’m looking for help with advanced machine learning techniques and project collaborations.
     💬 Ask me about anything related to university life as an international student.
