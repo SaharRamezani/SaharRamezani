@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- **SaharRamezani/SaharRamezani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
-
+    👩🏻‍💻 Call me Sahar (or Alba if you want)
     🔭 I’m currently working on my skills in Artificial Intelligence and Data Science as a first-year Computer-Science
        student at the University of Genoa.
     🌱 I’m improving my Italian (B1 level).
