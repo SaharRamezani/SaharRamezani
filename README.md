@@ -25,6 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /></code>
 
 **Tools & Platforms**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" /></code>
