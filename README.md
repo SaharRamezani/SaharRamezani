@@ -3,7 +3,9 @@
 🔍 Passionate about **Artificial Intelligence**, **Data Science**, and building systems that solve real problems.
 
 🎓 Master's student in Computer Science at the University of Genoa, Italy
-🧠 B.Sc. in Computer Engineering from Isfahan University of Technology, Iran  
+
+🧠 B.Sc. in Computer Engineering from Isfahan University of Technology, Iran
+
 🗣️ Languages: English (fluent), Italian (learning – B1 level)
 
 ---
@@ -21,9 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle/oracle.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-sql-server/microsoft-sql-server.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" /></code>
 
 **Tools & Platforms**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" /></code>
