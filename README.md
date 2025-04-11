@@ -8,23 +8,18 @@
 
 ---
 
-<img align="right" alt="coding-gif" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-
 ### 💼 Technical Stack
 
 **Languages**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></code>
-
-**Frontend**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" /></code>
-
-**Backend / DB**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle/oracle.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-sql-server/microsoft-sql-server.png" /></code>
