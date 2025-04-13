@@ -35,7 +35,7 @@
 
 ### 🌱 Currently working on
 - ML projects applying real-world data
-- Practicing spoken Italian 🇮🇹
+- Practicing Italian 🇮🇹
 
 ---
 
