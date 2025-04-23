@@ -6,7 +6,7 @@
 
 🧠 B.Sc. in Computer Engineering from Isfahan University of Technology, Iran
 
-🗣️ Languages: English (fluent), Italian (learning – B1 level)
+🗣️ Languages: English (fluent), Italian (learning – A2 level)
 
 ---
 
