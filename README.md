@@ -49,5 +49,3 @@
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaharRamezani&" alt="Sahar GitHub Streak" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaharRamezani)](https://github.com/ryo-ma/github-profile-trophy)
