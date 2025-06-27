@@ -45,7 +45,3 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
   </a>
 </p>
-
-<p align="right">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SaharRamezani)](https://git.io/streak-stats)
-</p>
