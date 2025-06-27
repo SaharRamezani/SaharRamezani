@@ -47,5 +47,5 @@
 </p>
 
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaharRamezani&" alt="Sahar GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SaharRamezani)](https://git.io/streak-stats)
 </p>
