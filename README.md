@@ -33,12 +33,6 @@
 
 ---
 
-[comment]: # ### 🌱 Currently working on
-[comment]: # - Learning advanc
-[comment]: # - Practicing Italian 🇮🇹
-
----
-
 ### 🔗 Let’s Connect!
 <p>
   <a href="https://www.linkedin.com/in/sahar-ramezani-jolfaei/">
