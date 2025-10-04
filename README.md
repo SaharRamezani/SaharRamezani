@@ -1,6 +1,6 @@
 ## Hey there, I'm Sahar Ramezani Jolfaei 👋
 
-🔍 Passionate about **Artificial Intelligence**, **Software Engineering**, and building systems that solve real problems.
+🔍 Passionate about **Software Testing**, **Software Engineering**, and building systems that solve real problems.
 
 🎓 Master's student in Computer Science at the University of Genoa, Italy
 
@@ -33,9 +33,9 @@
 
 ---
 
-### 🌱 Currently working on
-- ML projects applying real-world data
-- Practicing Italian 🇮🇹
+[comment]: # ### 🌱 Currently working on
+[comment]: # - Learning advanc
+[comment]: # - Practicing Italian 🇮🇹
 
 ---
 
