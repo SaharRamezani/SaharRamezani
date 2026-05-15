@@ -32,7 +32,7 @@ graph LR
     D --> F[concurrency semantics]
 ```
 
-At MPI-SWS I work with Prof. Rupak Majumdar and Prof. Arnaud Sangnier on DPOR and the Must algorithm. The tool is **TraceForge**, a Rust engine for stateless model checking of distributed systems. The phrase "stateless model checking" sounds harder to explain at parties than it actually is. Short version: run a concurrent program over enough interleavings to be confident the bug is not there, without running all of them. A preprint lives on [arXiv](https://arxiv.org/abs/2504.18953).
+At MPI-SWS, I work with Prof. Rupak Majumdar. The tool I'm working on is **TraceForge**, a Rust engine for stateless model checking of distributed systems. The phrase "stateless model checking" sounds harder to explain at parties than it actually is. Short version: run a concurrent program over enough interleavings to be confident the bug is not there, without running all of them.
 
 ---
 
