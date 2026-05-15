@@ -23,15 +23,6 @@ $ uptime
 
 ### `// what I work on`
 
-```mermaid
-graph LR
-    A[model checking] --> B[DPOR / Must]
-    A --> D[Coq / Rocq proofs]
-    B --> C[TraceForge]
-    B --> E[distributed protocols]
-    D --> F[concurrency semantics]
-```
-
 At MPI-SWS, the tool I'm working on is **TraceForge**, a Rust engine for stateless model checking of distributed systems. The phrase "stateless model checking" sounds harder to explain at parties than it actually is. Short version: run a concurrent program over enough interleavings to be confident the bug is not there, without running all of them.
 
 ---
