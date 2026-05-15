@@ -104,10 +104,6 @@ Admitted.
   <a href="mailto:6709190@studenti.unige.it">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="email" />
   </a>
-  &nbsp;
-  <a href="https://arxiv.org/abs/2504.18953">
-    <img src="https://img.icons8.com/color/48/literature.png" height="40" alt="arxiv" />
-  </a>
 </p>
 
 <sub>based in Italy. English C1, Italian B1, German A1. international students' representative at UniGe.</sub>
