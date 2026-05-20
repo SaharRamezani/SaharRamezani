@@ -91,10 +91,6 @@ Admitted.
   <a href="https://scholar.google.com/citations?user=5M3m52EAAAAJ&hl=en">
     <img src="https://img.icons8.com/color/48/google-scholar.png" height="40" alt="google scholar" />
   </a>
-  &nbsp;
-  <a href="mailto:6709190@studenti.unige.it">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="email" />
-  </a>
 </p>
 
 <sub>based in Italy. English C1, Italian B1, German A1. international students' representative at UniGe.</sub>
