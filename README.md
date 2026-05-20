@@ -80,9 +80,6 @@ Admitted.
 ### `// elsewhere`
 
 <p>
-  <a href="https://github.com/SaharRamezani">
-    <img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="github" />
-  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sahar-ramezani-jolfaei/">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="linkedin" />
