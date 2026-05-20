@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=4A90A4&center=true&vCenter=true&width=620&height=50&lines=verifying+things%2C+one+trace+at+a+time;currently+breaking+DPOR+in+interesting+ways;i+write+proofs+and+sometimes+they+compile;stateless+model+checking%2C+stateful+coffee+habit" />
+  <img alt="intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=4A90A4&center=true&vCenter=true&width=620&height=50&lines=currently+breaking+DPOR+in+interesting+ways;i+write+proofs+and+sometimes+they+compile;stateless+model+checking%2C+stateful+coffee+habit" />
 </p>
 
 CS master's student in Genoa, research intern at MPI-SWS. I look for races in concurrent programs, and for proofs that there are none. Sometimes both at once.
